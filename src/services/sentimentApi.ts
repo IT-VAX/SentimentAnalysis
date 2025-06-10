@@ -14,7 +14,7 @@ export class SentimentAnalysisService {
   private useEnsemble: boolean = true;
 
   private constructor() {
-    this.apiToken = 'hf_dummy_token';
+    this.apiToken = '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';
   }
 
   public static getInstance(): SentimentAnalysisService {
